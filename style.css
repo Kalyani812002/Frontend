@@ -1,0 +1,21 @@
+/* You can use Bootstrap but here are some custom styles if needed */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+
+.transaction-stats {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.chart-container {
+    margin-top: 30px;
+}
+
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
